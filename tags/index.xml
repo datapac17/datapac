@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on DATAPAC</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on DATAPAC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 06 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Avellentamento</title>
+      <link>/tags/avellentamento/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/avellentamento/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demografia</title>
+      <link>/tags/demografia/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/demografia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demografía</title>
+      <link>/tags/demograf%C3%ADa/</link>
+      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/demograf%C3%ADa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Poboacion</title>
+      <link>/tags/poboacion/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/poboacion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rural</title>
+      <link>/tags/rural/</link>
+      <pubDate>Wed, 07 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/rural/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
