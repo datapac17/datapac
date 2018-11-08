@@ -1,11 +1,12 @@
 ---
-title: "Lalin"
+title: Lal√≠n
 author: ''
-date: '2018-11-07'
-slug: "Lalin"
+date: '2018-11-08'
+slug: lal√≠n
 categories: ["territorio e urbanismo"]
 tags: ["poboacion","rural","demografia"]
 ---
+
 
 ```{r setup, include = FALSE}
 knitr::opts_chunk$set(echo=F,comment = NA, tidy = FALSE, warning = FALSE, message = FALSE)
@@ -14,9 +15,9 @@ source(here::here("content","02_scripts/mapa_nomen17.R"))
 
 This is a minimal example of how to use [htmlwidgets](http://www.htmlwidgets.org/index.html) in R Markdown posts. We will use a tidy version of Anscombe's quartet (thanks to [David Robinson](https://rpubs.com/dgrtwo/tidy-anscombe)). To reshape the anscombe dataset, you will need the **dplyr** and **tidyr** packages loaded. You'll also need to install and load the **DT** package for example 1, and the **ggplot2** and **plotly** packages for example 2.
 
-#IntroduciÛn
+#Introduci√≥n
 
-Neste primeiro escrito imos falar do problema da gran cantidade de defunciÛns en comparacion relativa coa de nacementos que est·n arrastrando · poboaciÛn lalinense ao avellentamento desaforado e que provocar·, no futuro, unha dificultade para manter a categorÌa do municipio.
+Neste primeiro escrito imos falar do problema da gran cantidade de defunci√≥ns en comparacion relativa coa de nacementos que est√°n arrastrando √° poboaci√≥n lalinense ao avellentamento desaforado e que provocar√°, no futuro, unha dificultade para manter a categor√≠a do municipio.
 
 ```{r mapa interactivo}
 mapa_interactivo

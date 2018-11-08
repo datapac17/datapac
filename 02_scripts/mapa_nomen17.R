@@ -77,8 +77,12 @@ label = labels,
 labelOptions = labelOptions(
   style = list("font-weight" = "normal", padding = "3px 8px"),
   textsize = "15px",
-  direction = "auto"))
-
+  direction = "auto"))%>%   addLegend("bottomright", pal = pal, round(nomenclator_shp$total),
+                                      labels= c("23-52", "52-96","96-161","161-239","239-429", "429-10670"),
+                                      title = "Rangos de poboación",
+                                      opacity = 1
+  )
+  
 
 
 
