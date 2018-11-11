@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on DATAPAC</title>
-    <link>/tags/</link>
+    <link>https://example.com/tags/</link>
     <description>Recent content in Tags on DATAPAC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Tue, 06 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Nov 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Avellentamento</title>
-      <link>/tags/avellentamento/</link>
-      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      <title>Defuncións</title>
+      <link>https://example.com/tags/defunci%C3%B3ns/</link>
+      <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/avellentamento/</guid>
+      <guid>https://example.com/tags/defunci%C3%B3ns/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demografia</title>
-      <link>/tags/demografia/</link>
+      <link>https://example.com/tags/demografia/</link>
       <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/demografia/</guid>
+      <guid>https://example.com/tags/demografia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demografía</title>
-      <link>/tags/demograf%C3%ADa/</link>
-      <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
+      <link>https://example.com/tags/demograf%C3%ADa/</link>
+      <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/demograf%C3%ADa/</guid>
+      <guid>https://example.com/tags/demograf%C3%ADa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Poboacion</title>
-      <link>/tags/poboacion/</link>
+      <link>https://example.com/tags/poboacion/</link>
       <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/poboacion/</guid>
+      <guid>https://example.com/tags/poboacion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rural</title>
-      <link>/tags/rural/</link>
+      <link>https://example.com/tags/rural/</link>
       <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/rural/</guid>
+      <guid>https://example.com/tags/rural/</guid>
       <description></description>
     </item>
     

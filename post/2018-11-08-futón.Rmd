@@ -1,8 +1,8 @@
 ---
-title: Lalín
+title: Como é Lalín?
 author: ''
 date: '2018-11-08'
-slug: lalín
+slug: 
 categories: ["territorio e urbanismo"]
 tags: ["poboacion","rural","demografia"]
 ---
@@ -13,13 +13,26 @@ knitr::opts_chunk$set(echo=F,comment = NA, tidy = FALSE, warning = FALSE, messag
 source(here::here("content","02_scripts/mapa_nomen17.R"))
 ```
 
-This is a minimal example of how to use [htmlwidgets](http://www.htmlwidgets.org/index.html) in R Markdown posts. We will use a tidy version of Anscombe's quartet (thanks to [David Robinson](https://rpubs.com/dgrtwo/tidy-anscombe)). To reshape the anscombe dataset, you will need the **dplyr** and **tidyr** packages loaded. You'll also need to install and load the **DT** package for example 1, and the **ggplot2** and **plotly** packages for example 2.
+Pode que teñamos problemas para facernos unha idea de como é Lalín. Ahí vai información sobre o noso municipio.
 
-#Introdución
+Datos interesantes sobre Lalín:
 
-Neste primeiro escrito imos falar do problema da gran cantidade de defuncións en comparacion relativa coa de nacementos que están arrastrando á poboación lalinense ao avellentamento desaforado e que provocará, no futuro, unha dificultade para manter a categoría do municipio.
+* Ocupa o posto **`r str_which(concellos_galicia_pob$Espazo,"Lalín")`** ,no referente a poboación do ano 2017, da lista de concellos de Galicia.
+
+* É o **4º** concello de Galicia a nivel de superficie con [326,8 km cadrados](http://www.planeamentourbanistico.xunta.es/siotuga/inventario.php).
+
+
+#Poboación 
+
+En primeiro lugar, no seguinte mapa, pódese ver a distribución da poboación en grupos nas diferentes parroquias do municipio.
 
 ```{r mapa interactivo}
 mapa_interactivo
+```
+
+Ademais, a seguinte táboa amosa a cantidade de lugares que hai en cada unha das parroquias.
+
+```{r}
+taboa_parroquias_lugares
 ```
 

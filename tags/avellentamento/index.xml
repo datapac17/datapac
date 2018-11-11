@@ -2,22 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Avellentamento on DATAPAC</title>
-    <link>/tags/avellentamento/</link>
+    <link>https://example.com/tags/avellentamento/</link>
     <description>Recent content in Avellentamento on DATAPAC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Tue, 06 Nov 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/avellentamento/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.com/tags/avellentamento/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Defuncións</title>
-      <link>/2018/11/defunci%C3%B3ns/</link>
+      <link>https://example.com/2018/11/defunci%C3%B3ns/</link>
       <pubDate>Tue, 06 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/11/defunci%C3%B3ns/</guid>
-      <description>This is a minimal example of how to use htmlwidgets in R Markdown posts. We will use a tidy version of Anscombe’s quartet (thanks to David Robinson). To reshape the anscombe dataset, you will need the dplyr and tidyr packages loaded. You’ll also need to install and load the DT package for example 1, and the ggplot2 and plotly packages for example 2.</description>
+      <guid>https://example.com/2018/11/defunci%C3%B3ns/</guid>
+      <description>Os datos que serán usados nos seguintes puntos foron extraídos do ige
+IntroduciónNeste primeiro escrito imos falar do problema da gran cantidade de defuncións en comparación relativa coa de nacementos que están arrastrando á poboación lalinense ao avellentamento desaforado e que provocará, no futuro, unha dificultade para manter a categoría do municipio.
+Gráfico estáticop2Gráfico de puntos interactivo{&#34;x&#34;:{&#34;data&#34;:[{&#34;visible&#34;:false,&#34;showlegend&#34;:false,&#34;xaxis&#34;:null,&#34;yaxis&#34;:null,&#34;hoverinfo&#34;:&#34;text&#34;,&#34;frame&#34;:null}],&#34;layout&#34;:{&#34;margin&#34;:{&#34;t&#34;:29.0463144161774,&#34;r&#34;:7.30593607305936,&#34;b&#34;:16.6992824527071,&#34;l&#34;:25.5707762557078},&#34;font&#34;:{&#34;color&#34;:&#34;rgba(0,0,0,1)&#34;,&#34;family&#34;:&#34;Nunito Black&#34;</description>
     </item>
     
   </channel>

@@ -3,103 +3,103 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/2018/11/lal%C3%ADn/</loc>
+    <loc>https://example.com/2018/11/como-%C3%A9-lal%C3%ADn/</loc>
     <lastmod>2018-11-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2018/11/defunci%C3%B3ns/</loc>
-    <lastmod>2018-11-06T00:00:00+00:00</lastmod>
+    <loc>https://example.com/2018/11/estudos-demogr%C3%A1ficos/</loc>
+    <lastmod>2018-11-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://example.com/about/</loc>
   </url>
   
   <url>
-    <loc>/tags/avellentamento/</loc>
-    <lastmod>2018-11-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/benestar/</loc>
-    <lastmod>2018-11-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <lastmod>2018-11-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>/</loc>
+    <loc>https://example.com/categories/benestar/</loc>
     <lastmod>2018-11-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/demografia/</loc>
+    <loc>https://example.com/categories/</loc>
     <lastmod>2018-11-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/demograf%C3%ADa/</loc>
-    <lastmod>2018-11-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://example.com/contact/</loc>
   </url>
   
   <url>
-    <loc>/contact.de/</loc>
+    <loc>https://example.com/contact/</loc>
   </url>
   
   <url>
-    <loc>/about/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/poboacion/</loc>
+    <loc>https://example.com/</loc>
     <lastmod>2018-11-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://example.com/tags/defunci%C3%B3ns/</loc>
     <lastmod>2018-11-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/rural/</loc>
+    <loc>https://example.com/tags/demografia/</loc>
     <lastmod>2018-11-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2018-11-06T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/territorio-e-urbanismo/</loc>
+    <loc>https://example.com/tags/demograf%C3%ADa/</loc>
     <lastmod>2018-11-08T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/ua-47268287-3/</loc>
+    <loc>https://example.com/contact.de/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/poboacion/</loc>
+    <lastmod>2018-11-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/post/</loc>
+    <lastmod>2018-11-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/rural/</loc>
+    <lastmod>2018-11-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2018-11-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/categories/territorio-e-urbanismo/</loc>
+    <lastmod>2018-11-08T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/ua-47268287-3/</loc>
     <priority>0</priority>
   </url>
   

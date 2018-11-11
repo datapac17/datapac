@@ -2,22 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rural on DATAPAC</title>
-    <link>/tags/rural/</link>
+    <link>https://example.com/tags/rural/</link>
     <description>Recent content in Rural on DATAPAC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Thu, 08 Nov 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/rural/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.com/tags/rural/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Lalín</title>
-      <link>/2018/11/lal%C3%ADn/</link>
+      <title>Como é Lalín?</title>
+      <link>https://example.com/2018/11/como-%C3%A9-lal%C3%ADn/</link>
       <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/11/lal%C3%ADn/</guid>
-      <description>This is a minimal example of how to use htmlwidgets in R Markdown posts. We will use a tidy version of Anscombe’s quartet (thanks to David Robinson). To reshape the anscombe dataset, you will need the dplyr and tidyr packages loaded. You’ll also need to install and load the DT package for example 1, and the ggplot2 and plotly packages for example 2.</description>
+      <guid>https://example.com/2018/11/como-%C3%A9-lal%C3%ADn/</guid>
+      <description>Pode que teñamos problemas para facernos unha idea de como é Lalín. Ahí vai información sobre o noso municipio.
+Datos interesantes sobre Lalín:
+Ocupa o posto 21 ,no referente a poboación do ano 2017, da lista de concellos de Galicia.
+É o 4º concello de Galicia a nivel de superficie con 326,8 km cadrados.
+PoboaciónEn primeiro lugar, no seguinte mapa, pódese ver a distribución da poboación en grupos nas diferentes parroquias do municipio.</description>
     </item>
     
   </channel>
